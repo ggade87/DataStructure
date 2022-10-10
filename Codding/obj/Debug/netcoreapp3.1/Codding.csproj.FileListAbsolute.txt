@@ -1,0 +1,14 @@
+C:\Softwares\datastrucutre\DataStructure\Codding\bin\Debug\netcoreapp3.1\Codding.exe
+C:\Softwares\datastrucutre\DataStructure\Codding\bin\Debug\netcoreapp3.1\Codding.deps.json
+C:\Softwares\datastrucutre\DataStructure\Codding\bin\Debug\netcoreapp3.1\Codding.runtimeconfig.json
+C:\Softwares\datastrucutre\DataStructure\Codding\bin\Debug\netcoreapp3.1\Codding.runtimeconfig.dev.json
+C:\Softwares\datastrucutre\DataStructure\Codding\bin\Debug\netcoreapp3.1\Codding.dll
+C:\Softwares\datastrucutre\DataStructure\Codding\bin\Debug\netcoreapp3.1\Codding.pdb
+C:\Softwares\datastrucutre\DataStructure\Codding\obj\Debug\netcoreapp3.1\Codding.csproj.AssemblyReference.cache
+C:\Softwares\datastrucutre\DataStructure\Codding\obj\Debug\netcoreapp3.1\Codding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softwares\datastrucutre\DataStructure\Codding\obj\Debug\netcoreapp3.1\Codding.AssemblyInfoInputs.cache
+C:\Softwares\datastrucutre\DataStructure\Codding\obj\Debug\netcoreapp3.1\Codding.AssemblyInfo.cs
+C:\Softwares\datastrucutre\DataStructure\Codding\obj\Debug\netcoreapp3.1\Codding.csproj.CoreCompileInputs.cache
+C:\Softwares\datastrucutre\DataStructure\Codding\obj\Debug\netcoreapp3.1\Codding.dll
+C:\Softwares\datastrucutre\DataStructure\Codding\obj\Debug\netcoreapp3.1\Codding.pdb
+C:\Softwares\datastrucutre\DataStructure\Codding\obj\Debug\netcoreapp3.1\Codding.genruntimeconfig.cache
